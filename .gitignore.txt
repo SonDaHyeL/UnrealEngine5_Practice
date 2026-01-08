@@ -1,0 +1,18 @@
+# === Unreal Engine (ALL projects) ===
+**/Binaries/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+
+
+# IDE / Editor
+.vs/
+.idea/
+*.sln
+
+# Logs & temp
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
